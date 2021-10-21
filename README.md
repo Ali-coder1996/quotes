@@ -13,5 +13,13 @@ In order to use Gson you have to include it in your project. You can do this by 
 
 # distribution
 
-Ali Alhjouj : create the class of the qoute and test the code,and create the random number
-Ahmad Alasa'd : create the reader, convert the json file to the list and try and catch 
+Ali Alhjouj : create the class of the qoute and test the code,and create the random number.
+Ahmad Alasa'd : create the reader, convert the json file to the list and try and catch .
+
+#lab9
+
+### Run the app:
+
+./gradlew run --args 'Name of Method with the arg'; => for getByWord and getByAuthorName inter the path the word or the author.
+
+##### You can run the test by: ./gradlew test
